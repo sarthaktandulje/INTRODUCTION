@@ -1,4 +1,4 @@
-# 🌸 Konnichiwa! I'm Sarthak Tandulje 🇮🇳
+# 🌸 Hey there! I'm Sarthak Tandulje 🇮🇳
 
 > “I don’t just study science — I explore how it shapes the world around us.”
 
