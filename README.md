@@ -43,7 +43,7 @@ I want to create systems that *understand* and *solve* — from diagnosing plant
 
 ## 🏅 Achievements & Learning  
 
-- Completed **11+ Certificates** in AI, ML, and tech (Coursera & SoloLearn)  
+- Completed **11+ Certified courses** in AI, ML, and tech (Coursera & SoloLearn)  
 - Built multiple small-scale AI apps integrating **science concepts + coding**  
 - Constantly learning advanced mathematics for better understanding of ML algorithms  
 
@@ -51,7 +51,7 @@ I want to create systems that *understand* and *solve* — from diagnosing plant
 
 ## 🎯 Goals  
 
-🎓 To study **Computer Science & Artificial Intelligence** in Japan under the **MEXT Scholarship**  
+🎓 To study **Computer Science & Artificial Intelligence** in Japan  
 🧠 To research applications of AI in **sustainability, robotics, and agriculture**  
 💫 To innovate tools that bring **science closer to daily life**  
 
@@ -60,7 +60,7 @@ I want to create systems that *understand* and *solve* — from diagnosing plant
 ## 📫 Let's Connect  
 
 - 🌐 [GitHub Profile](https://github.com/sarthaktandulje)  
-- 💌 Email: *[sarthak.tandulje.portfolio@gmail.com]*  
+- 💌 Email: *[sarthak.tandulje.official@gmail.com]*  
 - 📘 Always open to collaboration & learning!  
 
 ---
