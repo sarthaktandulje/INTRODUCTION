@@ -27,15 +27,6 @@ I want to create systems that *understand* and *solve* — from diagnosing plant
 - **Physics-Based Simulations & Computational Thinking**  
 - **Smart Agriculture & Environmental Tech**  
 
----
-
-## 🧩 Featured Project  
-
-### 🌿 [AgroVision-AI](https://web-production-d70f5.up.railway.app/)
-AI-powered web app that detects **tomato leaf diseases** using **TensorFlow & Flask**.  
-Built to assist farmers and promote sustainable agriculture through modern deep learning.
-
-📂 [View the Project on GitHub](https://github.com/sarthaktandulje/AgroVision-AI)
 
 ---
 
