@@ -58,7 +58,7 @@ I want to create systems that *understand* and *solve* — from diagnosing plant
 ##  Let's Connect  
 
 -  [GitHub Profile](https://github.com/sarthaktandulje)  
--  Email: *sarthaktandulje1234@gmail.com*  
+-  Email: *[sarthaktandulje1234@gmail.com]*  
 -  Always open to collaboration & learning!  
 
 ---
