@@ -1,6 +1,5 @@
 #  Hey there! I'm Sarthak Tandulje 🇮🇳
 
-> “I don’t just study science — I explore how it shapes the world around us.”
 
 ---
 
@@ -16,7 +15,6 @@ I love exploring how complex ideas from **mathematics, physics, and chemistry** 
 
 I want to create systems that *understand* and *solve* — from diagnosing plant diseases to developing smarter materials and sustainable solutions for the future.  
 
-> I believe that the bridge between science and technology is not just about coding — it’s about curiosity, creativity, and compassion.  
 
 ---
 
@@ -65,4 +63,3 @@ I want to create systems that *understand* and *solve* — from diagnosing plant
 
 ---
 
-> “The future belongs to those who merge science with empathy — and code with curiosity.”
