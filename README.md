@@ -49,7 +49,7 @@ I want to create systems that *understand* and *solve* — from diagnosing plant
 
 ## Goals  
 
- To study **Computer Science & Artificial Intelligence** in Japan  
+ To study **Computer Science & Artificial Intelligence** 
  To research applications of AI in **sustainability, robotics, and agriculture**  
  To innovate tools that bring **science closer to daily life**  
 
