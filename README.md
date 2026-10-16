@@ -7,7 +7,7 @@
 
 Hey there! I'm **Sarthak Tandulje**, a high-school student from **India** driven by a deep passion for **Artificial Intelligence, Physics, and Computational Science**.  
 
-I love exploring how complex ideas from **mathematics, physics, and chemistry** can be transformed into real-world innovations using **modern AI**. My dream is to pursue higher studies in **Japan [...]**
+I love exploring how complex ideas from **mathematics, physics, and chemistry** can be transformed into real-world innovations using **modern AI**. My dream is to pursue higher studies in **Japan**
 
 ---
 
